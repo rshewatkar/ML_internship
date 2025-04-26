@@ -4,7 +4,7 @@ def greet():
 
 greet()
 def greeat():
-    message = "Hello, ramm!"
+    message = "Hello, sham!"
     print(message)
 
 greeat()
