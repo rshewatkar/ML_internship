@@ -1,5 +1,5 @@
 # ML_internship / ML_Projects  
-This branch contains the project files of several machine learning projects.
+This branch contains the project files of several Machine Learning projects.
 
 ##  Projects Overview
 
