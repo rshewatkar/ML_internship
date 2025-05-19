@@ -3,11 +3,15 @@ This branch contains the project files of several Machine Learning projects.
 
 ##  Projects Overview
 
-1. [Mobile Phone Pricing](Mobile%20Phone%20Pricing/)
+1. [Boston House Pricing Dataset](Boston%20House%20Pricing%20Dataset/)
+
+      [View Notebook](Boston%20House%20Pricing%20Dataset/ouse_price_prediction.ynb)
+
+2. [Mobile Phone Pricing](Mobile%20Phone%20Pricing/)
 
      [View Notebook](Mobile%20Phone%20Pricing/Mobile_Phone_Pricing.ipynb)
 
-2. [Vehicle Price Prediction](Vehicle%20Price%20Prediction/)
+3. [Vehicle Price Prediction](Vehicle%20Price%20Prediction/)
 
       [View Notebook](Vehicle%20Price%20Prediction/Vehical_price.ipynb)
    
