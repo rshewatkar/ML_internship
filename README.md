@@ -3,7 +3,7 @@ This branch contains the project files of several Machine Learning projects.
 
 ##  Projects Overview
 
-1. [Boston House Pricing Dataset](Boston%20PHouse%20PPricing%20PDataset)
+1. [Boston House Pricing Dataset](Boston%20House%20Pricing%20Dataset)
 
       [View Notebook](Boston%20House%20Pricing%20Dataset/House_price_prediction.ipynb)
 
