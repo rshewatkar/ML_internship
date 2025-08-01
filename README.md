@@ -14,10 +14,14 @@ This branch contains the project files of several Machine Learning projects.
 3. [Vehicle Price Prediction](Vehicle%20Price%20Prediction/)
 
       [View Notebook](Vehicle%20Price%20Prediction/Vehical_price.ipynb)
-   
+4. [Netflix Customer Segmentation using K-Means Clustering](Neflix_Customer%20PSegmentation%20Pusing%20PK-Means%20PClustering)
+
+       [View Notbook](New Project/new.ipynb)   
+
+       
 Each project folder contains:
 - A dedicated Notebook
 - A README file (specific to the project)
 - Data and model implementation 
 
-Feel free to explore and contribute!
+
