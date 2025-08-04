@@ -18,6 +18,7 @@ This branch contains the project files of several Machine Learning projects.
 
       [View Notebook](Neflix_Customer%20Segmentation%20using%20K-Means%20Clustering/Netflix_KMeans.ipynb)   
 
+5. [Ship CO₂ Emission Prediction](<Ship CO₂ Emission Prediction>)]
 
 Each project folder contains:
 - A dedicated Notebook
